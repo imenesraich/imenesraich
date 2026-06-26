@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Fourth-Year+SIL+Engineering+Student+%40+ESI+Algiers;Android+%7C+Kotlin+%7C+Clean+Architecture;Full-Stack+%7C+Django+%2F+React+%2F+Angular;Applied+AI+%7C+PyTorch+%7C+Time-Series;Looking+for+a+Research+PFE+%2F+Internship+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=SIL+Engineering+Student+%40+ESI+Algiers;Android+%7C+Kotlin+%7C+Clean+Architecture;Full-Stack+%7C+Django+%2F+React+%2F+Angular;Applied+AI+%7C+PyTorch+%7C+Time-Series;Looking+for+a+Research+PFE+%2F+Internship+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,6 +19,7 @@
 ### 🧠 About Me
 
 - 🎓 Fourth-year Engineering student at **ESI Algiers** (SIL Specialization), graduating **2027**
+- 🔬 Building research-grade work in **AI/ML**, **Android development**, and **full-stack web engineering**
 - 📱 Designing intelligent, offline-first Android apps with **Clean Architecture**, **MVVM**, and on-device **OCR/ML Kit**
 - 💻 Building full-stack web platforms end-to-end — database design, REST APIs, and frontend
 - 🩺 Past project: a human activity recognition / anomaly detection pipeline (PyTorch autoencoder over smartphone sensor data, PostgreSQL + InfluxDB ingestion)
